@@ -1,0 +1,26 @@
+Input1:Cloud migration:
+Output:
+{
+"cloud migration",
+        "migration services",
+        "dxc migration services",
+        "migration factory dxc",
+        "migration factory"
+}
+
+Input2:Cloud Computing
+
+Output:{"vmware cloud",
+        "oracle cloud",
+        "cloud test",
+        "virtual private cloud",
+        "cloud apps"
+}
+Input3: Analytics
+Output{
+"analytics",
+        "analytics hadoop",
+        "warranty analytics knowledge",
+        "offerings analytics application",
+        "trading analytics"
+}
